@@ -9,15 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Find The MemCat
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Carmen Martínez Pérez
 
 **Resumen** : lorem ipsun dolor.... 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
