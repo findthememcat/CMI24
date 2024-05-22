@@ -15,13 +15,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Carmen Martínez Pérez
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Find The MemCat es un juego inspirado en memes de gatos,sus personajes son iconos de alguno de los memes de gatos mas conocidos. en este juego por niveles tendras que ir encontrando a dichos personajes que estaran escondidos endiferentes espacios 
 
 **Estilo/género:**  juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :
 
-(insertar imágenes a resolucion de 100px alto)
+![logo](https://github.com/findthememcat/CMI24/blob/main/IMG_2226.PNG).
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
