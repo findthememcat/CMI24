@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Find The MemCat
 
-**Web:**   https://    (url github.io)
+**Web:**   https://findthememcat.github.io
 
 **Autor:**  Carmen Martínez Pérez
 
