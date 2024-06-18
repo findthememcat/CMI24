@@ -48,10 +48,12 @@ En este juego por niveles tendrás que ir encontrando a dichos personajes que es
 
 ### 2.1 Storyboard: 
 
+Al principio de este juego encontraras un pequeño teaser introducctorio, acontinuacion en el mane podremos acceder a la galeria , creditos y por supuesto iniar el juego.
+una vez este empieze nos encontramos con uno de los personjes del juego ste , nos contara que tenemis
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-!(https://github.com/findthememcat/CMI24/blob/main/fotogramas juego.png). 
+
+
 
 
 ### 2.2. Esquema de navegación 
