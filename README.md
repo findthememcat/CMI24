@@ -61,7 +61,7 @@ Una vez este empieze nos encontramos con uno de los personjes del juego, este no
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![image](https://github.com/findthememcat/findthememcat.github.io/assets/170507075/22afa30d-8f6f-4b7d-8a06-19b383cc3f98)
 
 
 
