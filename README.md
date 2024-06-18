@@ -51,7 +51,7 @@ En este juego por niveles tendrás que ir encontrando a dichos personajes que es
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+!(https://github.com/findthememcat/CMI24/blob/main/fotogramas juego.png). 
 
 
 ### 2.2. Esquema de navegación 
