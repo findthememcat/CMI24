@@ -52,6 +52,7 @@ Al principio de este juego encontraras un pequeño teaser introductorio, a conti
 Una vez este empieze nos encontramos con uno de los personjes del juego, este nos contará que tenemos que hacer en el juego, después de adivinar el código secreto estarán los distintos niveles del juego, una vez superados todos desbloquearemos al personaje principal y ganaremos el juego.
 
 
+![image](https://github.com/findthememcat/findthememcat.github.io/assets/170507075/72e8bd7a-3449-4843-87ba-11b36e5d31b2)
 
 
 
